@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A couple of challenges I faced was making sure the permissions were set in the Back4App because I was getting permission denied. Another one was getting the Duplicate error.
 
 ## Open-source libraries used
 
